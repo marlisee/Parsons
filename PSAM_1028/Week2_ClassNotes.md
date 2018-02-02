@@ -73,10 +73,6 @@ var redEvilEyes = false
 undefined
 var ableToSpeak = true 
 undefined
-is
-VM1250:1 Uncaught ReferenceError: is is not defined
-    at <anonymous>:1:1
-(anonymous) @ VM1250:1
 isAlive
 true
 isAlive = false
@@ -87,10 +83,6 @@ isAlive
 false
 var isAlive = true
 undefined
-beard
-VM1290:1 Uncaught ReferenceError: beard is not defined
-    at <anonymous>:1:1
-(anonymous) @ VM1290:1
 "bread"
 "bread"
 ```
